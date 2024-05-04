@@ -1,0 +1,12 @@
+AwardPersonConnecter +
+AwardMovieConnecter +
+Awards +
+ComposerSoundtrackConnecter +
+Genres +
+MovieActorConnecter +
+MovieGenreConnecter +
+Movies +
+People +
+Reviews +
+ReviewsHistory +
+Soundtracks +
